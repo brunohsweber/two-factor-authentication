@@ -1,1 +1,1 @@
-# two-factor-authentication
+# Two Factor Authentication
