@@ -18,11 +18,11 @@ Two Factor Authentication (2FA) - API
 
 Two Factor Authentication (2FA) - API é um projeto pessoal o qual teve como objetivos:
 
-- (Definir os objetivos)
+- (Definir 5 objetivos)
 
 ### :rocket: Tecnologias e Principais Ferramentas:
 
-- (Colocar as tecnologias)
+- (Colocar as principais tecnologias)
 
 ## :information_source: Como Usar?
 
